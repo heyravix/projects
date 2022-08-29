@@ -2,7 +2,7 @@
 
 In this model we can predict hand written digit.
 
-Dataset is taken from kaggle.
+Dataset is taken from kaggle.\n
 Artificial Neural Network is used for model.
 from Keras Sequential Model is used.
 
