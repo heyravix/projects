@@ -1,4 +1,4 @@
-#Hand Written Digit Prediction 
+# Hand Written Digit Prediction 
 
 In this model we can predict hand written digit.  
 
