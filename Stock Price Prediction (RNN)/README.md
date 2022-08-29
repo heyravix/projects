@@ -1,4 +1,4 @@
-#**Stock Price Prediction**  
+**#Stock Price Prediction**
 
 In this model we can predict Stock Price..    
 
